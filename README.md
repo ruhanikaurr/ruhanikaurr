@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ruhani 👋
+
+I'm a third year undergraduate student at University of British Columbia. I'm majoring in Economics and Statistics. 
 
 <!--
 **ruhanikaurr/ruhanikaurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
