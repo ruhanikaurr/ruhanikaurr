@@ -1,6 +1,12 @@
 ### Hi, I'm Ruhani 👋
 
-I'm a third year undergraduate student at University of British Columbia. I'm majoring in Economics and Statistics. 
+I'm a third year undergraduate student at University of British Columbia. I'm majoring in Economics and Statistics.Enthusiastic about the Actuarial Sciences, I'm on a quest to broaden my skills and knowledge, aiming for the ASA Certification, with Exam FM scheduled in October 2024.
+
+In my recent projects, I delved into the world of sports data, exploring the gender effects on the mean age of Olympic athletes in Football since 1900. Through rigorous data cleaning, wrangling, and visualization techniques, coupled with hypothesis testing using R software, I gained valuable skills in extracting meaningful insights and communicating them effectively.
+
+My professional journey extends beyond data analysis into the domain of student recruitment, where I served as a Student Recruitment Assistant at UBC MEL MHLP. Here, I learnt the use of platforms such as MailChimp, Salesforce, and WordPress to streamline communication processes and efficiently organize data.
+
+I'm excited about the prospect of leveraging my skills and experience to contribute to meaningful projects and collaborate with like-minded professionals. Let's connect and explore how we can work together to make a difference! 😊 
 
 <!--
 **ruhanikaurr/ruhanikaurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
